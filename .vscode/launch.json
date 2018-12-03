@@ -21,6 +21,14 @@
             "cwd": "${workspaceFolder}/day1"
         },
         {
+            "name": "Day 2 (Integrated Terminal)",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/day2"
+        },
+        {
             "name": "Python: Current File (External Terminal)",
             "type": "python",
             "request": "launch",
